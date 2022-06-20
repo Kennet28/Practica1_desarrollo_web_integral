@@ -1,1 +1,2 @@
 Chacon, S. and Straub,B. Git. Apress.
+Ryan Hodson. Ry's Git Tutorial.SmashEords (2014)
