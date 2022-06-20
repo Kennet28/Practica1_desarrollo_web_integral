@@ -1,1 +1,2 @@
 Chacon, S. and Straub,B. Git. Apress.
+Loeliger, J. and McCullogh, M. Version control with Git O'Reilly.
